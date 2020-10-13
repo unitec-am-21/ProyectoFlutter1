@@ -1,0 +1,15 @@
+name: Proyecto1
+description: Proyecto 1 - Aplicaciones Móviles
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
